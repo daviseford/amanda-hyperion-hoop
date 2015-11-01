@@ -1,0 +1,68 @@
+
+Description of Patterns in each folder:-
+
+The numbers represent the order on the remote, from left to right and top to bottom
+
+..................................................................................................
+
+Chasers - the chasers folder contains special patterns that are overlaid on background
+patterns and have their own motion settings.  Only the first line is read from
+a chaser file.
+
+..................................................................................................
+
+1.Chasing - self explanatory, these chase around the hoop.
+
+2.Checkers - anything with squares generally.
+
+3.Clouds - gradients and gradient effects.
+
+4.Figures - text, logos, symbols, shapes, (hearts, arrows etc).
+
+..................................................................................................
+
+5.Motion - large patterns which create a motion effect on the hoop - chasers,chevrons and large 
+           geometric shapes.
+
+6.Pictures - POV images. 
+
+7.Pixel - small pixel patterns, which repeat around the hoop, creating intricate patterns.
+
+8.Psychedelic - self explanatory.
+
+..................................................................................................
+
+9.Rainbows - self explanatory, although there are various other patterns and 1bit files 
+             throughout the hoop.
+
+10.Solid - single colour effects.
+
+11.Sparkles - stars, sparkles, chasing sparkles, galaxy images, strobe sparkles, static sparkles.
+
+12.Static - pattern generally doesn't move on the hoop,(fixed position). The pattern may have 
+ 	    elements to it which do move or change though.
+
+..................................................................................................
+
+13.Strobes - self explanatory.
+
+14.Texture - animal print, all fire patterns, gradient pixel textures.
+
+15.Wiggle - bouncing chasers, (X patterns basically).
+
+16.(will show the chasing folder again)
+
+.................................................................................................
+
+Don't forget to try out the motion controls on each folder. For example the static folder 
+becomes chasers by pressing the blue arrows. You can also add chaser effects to this by pressing
+the red arrows to select different chasers and then press the green arrows to get different
+motion modes.
+
+You can create more folders on the hoop and then use the "W" button to access them
+
+Please bear in mind that some patterns are 1bit files, they will look white on your computer 
+but show as rainbow on the hoop. Patterns that do this have "_1bt" in the file name.
+
+.................................................................................................
+
